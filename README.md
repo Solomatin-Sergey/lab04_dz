@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.com/Solomatin-Sergey/lab04_dz.svg?branch=main)](https://www.travis-ci.com/Solomatin-Sergey/lab04_dz)
 # lab04_dz
 ## Изучение систем непрерывной интеграции на примере сервиса Travis CI
 > Вы продолжаете проходить стажировку в "Formatter Inc." (см подробности).
