@@ -36,7 +36,7 @@ addons:
     packages:
       - cmake
       - cmake-data
-      - mingw-w64`
+      - mingw-w64
 ```      
 >> регистрируемся на travis-ci.com, где активируем данную лабу.
 
